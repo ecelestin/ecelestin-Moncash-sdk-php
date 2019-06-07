@@ -21,4 +21,4 @@ $orderId = 123456789;
 $rep = $test->makePaymentRequest($amount,$orderId);
 
 // Echoing the redirection's URI to the payment middleware of MONCASH
-echo $rep;
+echo "<a href='".$rep."' target='_blank'><img src='https://moncashbutton.digicelgroup.com/Moncash-middleware/resources/assets/images/MC_button.png' ></a>";
