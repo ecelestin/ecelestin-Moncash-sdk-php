@@ -1,18 +1,18 @@
 {
-    "name": "s2tel/mc_php_sdk",
+    "name": "DGCGroup/MonCash-PHP-SDK",
     "type": "library",
-    "description": "SDK for Mon Cash payment integration in website created by PHP",
+    "description": "PHP SDK for payment using MonCash on PHP",
     "keywords": [
-        "s2tel",
-        "mc_php_sdk"
+        "DGCGroup",
+        "MonCash-PHP-SDK"
     ],
-    "homepage": "https://github.com/s2tel/mc_php_sdk",
+    "homepage": "https://github.com/DGCGroup/MonCash-PHP-SDK",
     "license": "MIT",
     "authors": [
         {
-            "name": "Rulx Philome ALEXIS",
+            "name": "",
             "email": "rulxphilome.alexis@gmail.com",
-            "homepage": "http://rulxphilomealexis.com",
+            "homepage": "https://github.com/rpalexis",
             "role": "Developer"
         }
     ],
@@ -22,12 +22,12 @@
     },
     "autoload": {
         "psr-4": {
-            "s2tel\\mc_php_sdk\\": "src"
+            "DGCGroup\\MonCashPHPSDK\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "s2tel\\mc_php_sdk\\": "tests"
+            "DGCGroup\\MonCashPHPSDK\\": "tests"
         }
     },
     "scripts": {
