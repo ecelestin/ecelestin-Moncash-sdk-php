@@ -26,13 +26,13 @@ class Constants{
 
     public static $PAYMENT_ORDER_URI = "/v1/RetrieveOrderPayment";
 
-    public static $REST_SANDBOX_ENDPOINT = "http://200.113.192.182:8080/Api";
+    public static $REST_SANDBOX_ENDPOINT = "https://sandbox.moncashbutton.digicelgroup.com/Api";
 
     public static $REST_LIVE_ENDPOINT = "https://api.moncashbutton.digicelgroup.com";
 
-    public static $SANDBOX_REDIRECT = "http://200.113.192.182:8080/Moncash-middleware";
+    public static $SANDBOX_REDIRECT = "https://sandbox.moncashbutton.digicelgroup.com/Moncash-middleware";
 
-    public static $LIVE_REDIRECT = "http://200.113.192.182:8080/Moncash-middleware";
+    public static $LIVE_REDIRECT = "https://moncashbutton.digicelgroup.com/Moncash-middleware";
 
     public static $GATE_WAY_URI = "/Payment/Redirect";
 
