@@ -28,7 +28,7 @@ class Constants{
 
     public static $REST_SANDBOX_ENDPOINT = "https://sandbox.moncashbutton.digicelgroup.com/Api";
 
-    public static $REST_LIVE_ENDPOINT = "https://api.moncashbutton.digicelgroup.com";
+    public static $REST_LIVE_ENDPOINT = "https://moncashbutton.digicelgroup.com/Api";
 
     public static $SANDBOX_REDIRECT = "https://sandbox.moncashbutton.digicelgroup.com/Moncash-middleware";
 
