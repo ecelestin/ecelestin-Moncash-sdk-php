@@ -1,5 +1,5 @@
 {
-    "name": "DGCGroup/MonCash-PHP-SDK",
+    "name": "dgcgroup/moncash-php-sdk",
     "type": "library",
     "description": "PHP SDK for payment using MonCash on PHP",
     "keywords": [
