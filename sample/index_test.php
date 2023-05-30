@@ -12,8 +12,8 @@ use DGCGroup\MonCashPHPSDK\Order;
 use DGCGroup\MonCashPHPSDK\TransactionCaller;
 
 // Instanciation of the payment class
-$client = "c1bf0a27d6bbb217a599c9e25480c11d";
-$secret = "oHrr4tbnB1PH0uz6VQNUvVVDNVNvk0WiIXZWBAed4-CBCwilT8yUdS87AZoPrtqN";
+$client = "";
+$secret = "";
 $configArray = Configuration::getSandboxConfigs();
 
 $test = new Credentials($client, $secret, $configArray);

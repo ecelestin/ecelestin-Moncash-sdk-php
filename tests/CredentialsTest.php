@@ -14,12 +14,12 @@ class CredentialsTest extends \PHPUnit\Framework\TestCase
      * Class dummy data 
      * */
     public function clientValue(){
-        return "c1bf0a27d6bbb217a599c9e25480c11d";
+        return "";
     }
 
 
     public function secretValue(){
-        return "oHrr4tbnB1PH0uz6VQNUvVVDNVNvk0WiIXZWBAed4-CBCwilT8yUdS87AZoPrtqN";
+        return "";
     }
 
 
